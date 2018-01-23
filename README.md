@@ -117,8 +117,8 @@ Using this data the model improved drastically and got the following Kaggle scor
 
 ## Benchmarks Models
 
-| Model | K-Scoring | K-Position | F1 Score | Acc train/val | Loss Acc/val | Epochs | Batch Size | LR |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Model | K-Scoring | K-Position | F1 Score | Acc train/val | Loss Acc/val | Epochs | Batch Size | Seed |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | LeNet5 v3  | 0.99900 | 30  | 1.0 / 0.99966816871350095  | 1.0 / 0.99360001 | 1.3700266e-05 / 0.040703569 | 200  | 200 | 1 |
 | LeNet5 v2  | 0.99042 | 652 | 1.0 / 0.99966877260234099  | 1.0 / 0.99297619 | 5.616491e-05 / 0.054907657 | 200  | 200 | 1 |
 | LeNet5 v1  | 0.98885 | 751 | 1.0 / 0.99947006736346533  | 1.0 / 0.99000001 | 0.0 / 0.19570193 165 |  32 | 1 |
